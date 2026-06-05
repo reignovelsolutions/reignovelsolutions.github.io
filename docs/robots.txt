@@ -1,0 +1,11 @@
+# robots.txt for Reignovel Solutions Company Limited
+
+User-agent: *
+Allow: /
+
+# Optional: sitemap (add when ready)
+Sitemap: https://renovelsolutions.com/sitemap.xml
+
+# Block project/system files (if accidentally published)
+Disallow: *.bak$
+Disallow: *.tmp$
